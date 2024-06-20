@@ -1,7 +1,7 @@
 {
-    "name": "Konoha-Launcher",
+    "name": "konoha-launcher",
     "preductname": "Konoha Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Launcher Konoha Corp 2024",
     "main": "src/app.js",
     "author": {
